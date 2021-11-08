@@ -4,8 +4,9 @@ public class TiposDados {
     public static void main(String[] args){
         int inteiro = 10;
         double pontoFlutuante = 25.4;
+        char letra = 'a';
         String caractere = "Sou uma cadeia de caracteres";
-        System.out.println("Inteiro: " + inteiro + "Ponto Flutuante: " + pontoFlutuante + "Caractere: " + caractere);
+        System.out.println("Inteiro: " + inteiro + " Ponto Flutuante: " + pontoFlutuante  + " Caractere: " + letra + " Cadeia de Caractere: " + caractere);
 
         //Outros tipos
         float numero0 = 3.1f;
